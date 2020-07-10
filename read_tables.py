@@ -1,3 +1,6 @@
+
+# Author Shazy_Chinnu
+
 # import mysql.connector
 # # import csv
 # try:
@@ -22,6 +25,7 @@
 #     if con:
 #         con.close()
 ##########################################
+#Author Shazy_chinnu
 import mysql.connector
 import csv
 try:
